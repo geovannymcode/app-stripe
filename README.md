@@ -1,2 +1,2 @@
-# app-stripe
-Demo of vaadin + stripe + spring boot
+# App-Stripe
+Demo of Vaadin + Spring boot + Stripe
