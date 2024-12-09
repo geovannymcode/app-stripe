@@ -1,0 +1,8 @@
+vaadin:
+  launch-browser: 'true'
+spring:
+  application:
+    name: app-stripe
+stripe:
+  secret:
+    key:
