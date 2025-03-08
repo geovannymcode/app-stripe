@@ -124,7 +124,7 @@ mvn test
 
 ## Arquitectura
 
-
+![Diagrama_Flowchart.png](../../../../Desktop/Diagrama_Flowchart.png)
 
 ## Flujo de Pago
 
