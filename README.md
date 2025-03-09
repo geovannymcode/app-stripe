@@ -124,11 +124,11 @@ mvn test
 
 ## Arquitectura
 
-![Diagrama_Flowchart.png](../../../../Desktop/Diagrama_Flowchart.png)
+![Diagrama_Flowchart.png](docs/Diagrama_Flowchart.png)
 
 ## Flujo de Pago
 
-
+![Flujo_Pago.png](docs/Flujo_Pago.png)
 
 ## Esquema de Base de Datos
 
